@@ -114,7 +114,6 @@ To view which modules/SDKs have been skipped:
 For more detailed documentation, please see:
 
 - [PROGRESS_TRACKING.md](PROGRESS_TRACKING.md) - Details on progress tracking functionality
-- [CLAUDE.md](CLAUDE.md) - Command reference and development guidelines
 - [test/README.md](test/README.md) - Information about the test suite
 
 ## Testing
