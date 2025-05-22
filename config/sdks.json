@@ -1,0 +1,74 @@
+{
+  "sdks": [
+    {
+      "name": "sync-sdk",
+      "path": "sync-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ai-sdk",
+      "path": "ai-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "storage-sdk",
+      "path": "storage-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "security-sdk",
+      "path": "security-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "net-sdk",
+      "path": "net-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ui-sdk",
+      "path": "ui-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "obs-sdk",
+      "path": "obs-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "devops-sdk",
+      "path": "devops-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "api-gateway-sdk",
+      "path": "api-gateway-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "config-sdk",
+      "path": "config-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "cli-sdk",
+      "path": "cli-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "docs-sdk",
+      "path": "docs-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "test-sdk",
+      "path": "test-sdk",
+      "version": "0.1.0"
+    },
+    {
+      "name": "compliance-sdk",
+      "path": "compliance-sdk",
+      "version": "0.1.0"
+    }
+  ]
+}

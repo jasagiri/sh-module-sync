@@ -1,0 +1,24 @@
+{
+  "modules": [
+    {
+      "name": "module1",
+      "repo_url": "https://github.com/example/module1.git",
+      "branch": "main"
+    },
+    {
+      "name": "module2",
+      "repo_url": "https://github.com/example/module2.git",
+      "branch": "main"
+    },
+    {
+      "name": "module3",
+      "repo_url": "https://github.com/example/module3.git",
+      "branch": "main"
+    },
+    {
+      "name": "module4",
+      "repo_url": "https://github.com/example/module4.git",
+      "branch": "main"
+    }
+  ]
+}
